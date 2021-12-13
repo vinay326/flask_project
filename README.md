@@ -1,2 +1,5 @@
-# flask_project
-A simple project
+```
+#Steps to build the web application
+
+
+```
